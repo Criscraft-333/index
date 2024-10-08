@@ -1,4 +1,4 @@
-const { makeBadge } = require('badge-maker');
+import { makeBadge } from "badge-maker";
 
 const format = {
     label: 'user',
@@ -6,5 +6,5 @@ const format = {
     color: 'cyan',
 };
 
-const svg = makeBadge(format);
-console.log(svg);
+const badge = makeBadge(format);
+console.log(badge);
