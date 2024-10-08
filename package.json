@@ -1,0 +1,14 @@
+{
+  "name": "page",
+  "version": "1.0.0",
+  "main": "index_files/script.js",
+  "scripts": {
+    "test": "\"echo No test available && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "badge-maker": "^4.0.0"
+  }
+}
